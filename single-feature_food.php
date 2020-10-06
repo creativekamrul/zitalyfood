@@ -1,1 +1,1 @@
-ki khobor ?
+<?php
